@@ -27,7 +27,7 @@ Terdapat hutan lebat dimana disitu adalah tempat warga setempat memenuhi kebutuh
 
 <h2>Goals</h2>
 
-Melindungi, merestorasi dan meningkatkan pemanfaatan berkelanjutan eksosistem daratan, mengelola hutan secara lestari, menghentikan penggurunan, memulihkan degradasi lahan, serta menghentikan kehilangan keanekargaman hayati yang akan dilakukan oleh bos tambang
+Melindungi, merestorasi dan meningkatkan pemanfaatan berkelanjutan eksosistem daratan, mengelola hutan secara lestari, menghentikan penggurunan, memulihkan degradasi lahan, serta menghentikan kehilangan keanekargaman hayati yang akan dilakukan oleh bos tambang (Ketika poin yang didapatkan dari tanaman sudah terpenuhi)
 
 <h2>Dokumentasi</h2>
 Soon...
