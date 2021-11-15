@@ -18,7 +18,12 @@ Terdapat hutan lebat dimana disitu adalah tempat warga setempat memenuhi kebutuh
 
 <h2>Rules</h2>
 
-1. 
+1. Menanam bibit pohon, dan pohon akan tumbuh sampai berbuah
+2. Buah yang jatuh jika diambil maka player akan mendapatkan poin
+3. player dapat membeli bibit untuk ditanam
+4. Enemy akan mencoba untuk menebang pohon yang sudah tertanam dan akan mencoba menyerang player, dan jika pohon tertebang akan mengurangi poin
+5. Ketika poin habis atau karakter mati, maka akan kalah
+6. Ketika poin terpenuhi, maka game akan selesai
 
 <h2>Goals</h2>
 
