@@ -28,7 +28,7 @@ Dalam game ini, pemain akan diminta untuk merawat lahan dengan cara memotong rum
 
 <h2>Goals</h2>
 
-Melindungi, merestorasi dan meningkatkan pemanfaatan berkelanjutan eksosistem daratan, mengelola hutan secara lestari, menghentikan penggurunan, memulihkan degradasi lahan, serta menghentikan kehilangan keanekargaman hayati yang akan dilakukan oleh bos tambang (Ketika poin yang didapatkan dari tanaman sudah terpenuhi)
+Merawat lahan dengan cara memotong rumput liar, memungut sampah yang berserakan, dan menanami serta menyiram tanaman.
 
 <h2>Dokumentasi</h2>
 Soon...
