@@ -19,12 +19,12 @@ Dalam game ini, pemain akan diminta untuk merawat lahan dengan cara memotong rum
 
 <h2>Rules</h2>
 
-1. Menanam bibit pohon, dan pohon akan tumbuh sampai berbuah
-2. Buah yang jatuh jika diambil maka player akan mendapatkan poin
-3. player dapat membeli bibit untuk ditanam
-4. Enemy akan mencoba untuk menebang pohon yang sudah tertanam dan akan mencoba menyerang player, dan jika pohon tertebang akan mengurangi poin
-5. Ketika poin habis atau karakter mati, maka akan kalah
-6. Ketika poin terpenuhi, maka game akan selesai
+1. Pemain harus memotong semua rumput liar
+2. Pemain harus mengambil semua sampah
+3. Pemain harus menyiram semua tanaman
+4. Pemain harus menggali semua tanah yg bisa digali
+5. Pemain harus menanami semua tanah yg sudah digali
+6. Pemain harus melakukan itu semua sebelum timer selesai
 
 <h2>Goals</h2>
 
