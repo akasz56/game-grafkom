@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -6,11 +7,17 @@ using UnityEngine.UI;
 public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
+    bool timerActive = false;
+    float currentTime;
     [SerializeField] public int currentLevel = 1;
     [SerializeField] public Text missionObjectives;
+    public int startMinutes;
+    public Text currentTimeText;
     public GameObject Endscrn;
+    public GameObject timeUpScrn;
 
-    [HideInInspector] public int
+    [HideInInspector]
+    public int
         jumlahSampah = 0,
         jumlahRumput = 0,
         jumlahGaliable = 0,
@@ -21,7 +28,9 @@ public class GameManager : MonoBehaviour
     private void Awake()
     {
         instance = this;
+        timerActive = true;
         Time.timeScale = 1f;
+        currentTime = startMinutes * 60;
 
         switch (currentLevel)
         {
@@ -42,8 +51,8 @@ public class GameManager : MonoBehaviour
         switch (currentLevel)
         {
             case 1:
-                missionObjectives.text = 
-                    "Misi :" + "\n" + 
+                missionObjectives.text =
+                    "Misi :" + "\n" +
                     "- Ambil " + jumlahSampah + " sampah yang ada" + "\n" +
                     "- Bersihkan " + jumlahRumput + " semak - semak";
                 isGameOver = (jumlahSampah == 0 && jumlahRumput == 0);
@@ -67,6 +76,20 @@ public class GameManager : MonoBehaviour
                 isGameOver = (jumlahSampah == 0 && jumlahRumput == 0 && jumlahSiramable == 0 && jumlahGaliable == 0 && jumlahTanamable == 0);
                 break;
         }
+
+        if (timerActive)
+        {
+            currentTime = currentTime - Time.deltaTime;
+            if (currentTime <= 0)
+            {
+                timerActive = false;
+                timeUpScrn.gameObject.SetActive(true);
+                Time.timeScale = 0f;
+                Debug.Log("Waktu Habis");
+            }
+        }
+        TimeSpan time = TimeSpan.FromSeconds(currentTime);
+        currentTimeText.text = time.Minutes.ToString() + ":" + time.Seconds.ToString();
 
         if (isGameOver)
         {
@@ -155,5 +178,16 @@ public class GameManager : MonoBehaviour
             Debug.Log("Tanamable Habis");
         }
     }
+
+    public void StartTimer()
+    {
+        timerActive = true;
+    }
+
+    public void StopTimer()
+    {
+        timerActive = false;
+    }
+
     public GameObject player;
 }

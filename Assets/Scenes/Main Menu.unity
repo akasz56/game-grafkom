@@ -865,27 +865,18 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Budi adalah seorang mahasiswa tingkat akhir IPB yang sebentar lagi akan
-    lulus. Menjelang kelulusannya, Budi masih bingung harus mencari pekerjaan kemana.
-    Salah satu dosen ketika ia kuliah yaitu Pak Budiman ingin membantu Budi mencari
-    lapangan pekerjaan. Namun ada syaratnya, Budi harus mau ditugaskan sekali lagi
-    oleh Pak Budiman. Pak Budiman meminta Budi untuk merawat salah satu sepetak lahan
-    di Kampus IPB yang sudah tidak terawat. Budi hanya diminta untuk merawat dan
-    menanami lahan tersebut untuk beberapa hari, lalu setelahnya Pak Budiman akan
-    memberikan lapangan pekerjaan untuk Budi.
-
-    Dalam game ini, pemain akan diminta
-    untuk merawat lahan dengan cara memotong rumput liar, memungut sampah yang berserakan,
-    dan menanami serta menyiram tanaman.
-
-
-    Muhammad Ezra Fathurrahman - Game
-    Artist
-
-    Akaasyah Nurfath - Game programmer
-
-    Alfariz Gilang Septian -
-    Game Designer'
+  m_text: "Andamaru adalah seorang mahasiswa pecinta lingkungan yang cerdas dan aktif
+    di IPB yang sebentar lagi akan lulus. Andamaru sering melakukan aksi lingkungan
+    dan menyuarakan pendapatnya ke publik, oleh karena itu ia dikenal oleh banyak
+    orang di lingkungan kampus dan sekitarnya. Hingga suatu ketika beredar kabar
+    bahwa ada lahan hijau yang kurang terawat dan ingin dijadikan bangunan oleh sebuah
+    perusahaan, namun lahan tersebut seharusnya menjadi habitat bagi hewan dan tanaman-tanaman.
+    Andamaru sadar akan perannya dalam menyelamatkan lingkungan di sekitarnya.Pak
+    Jaya yang merupakan seorang petinggi kampus memberinya sebauh tugas mulia untuk
+    menjaga ekosistem di sekitarnya. \nDalam game ini, pemain akan diminta untuk
+    merawat lahan dengan cara memotong rumput liar, memungut sampah yang berserakan,
+    dan menanami serta menyiram tanaman.\n\nMuhammad Ezra Fathurrahman - Game Artist\nAkaasyah
+    Nurfath - Game programmer\nAlfariz Gilang Septian - Game Designer"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1032,27 +1023,18 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Budi adalah seorang mahasiswa tingkat akhir IPB yang sebentar lagi akan
-    lulus. Menjelang kelulusannya, Budi masih bingung harus mencari pekerjaan kemana.
-    Salah satu dosen ketika ia kuliah yaitu Pak Budiman ingin membantu Budi mencari
-    lapangan pekerjaan. Namun ada syaratnya, Budi harus mau ditugaskan sekali lagi
-    oleh Pak Budiman. Pak Budiman meminta Budi untuk merawat salah satu sepetak lahan
-    di Kampus IPB yang sudah tidak terawat. Budi hanya diminta untuk merawat dan
-    menanami lahan tersebut untuk beberapa hari, lalu setelahnya Pak Budiman akan
-    memberikan lapangan pekerjaan untuk Budi.
-
-    Dalam game ini, pemain akan diminta
-    untuk merawat lahan dengan cara memotong rumput liar, memungut sampah yang berserakan,
-    dan menanami serta menyiram tanaman.
-
-
-    Muhammad Ezra Fathurrahman - Game
-    Artist
-
-    Akaasyah Nurfath - Game programmer
-
-    Alfariz Gilang Septian -
-    Game Designer'
+  m_Text: "Andamaru adalah seorang mahasiswa pecinta lingkungan yang cerdas dan aktif
+    di IPB yang sebentar lagi akan lulus. Andamaru sering melakukan aksi lingkungan
+    dan menyuarakan pendapatnya ke publik, oleh karena itu ia dikenal oleh banyak
+    orang di lingkungan kampus dan sekitarnya. Hingga suatu ketika beredar kabar
+    bahwa ada lahan hijau yang kurang terawat dan ingin dijadikan bangunan oleh sebuah
+    perusahaan, namun lahan tersebut seharusnya menjadi habitat bagi hewan dan tanaman-tanaman.
+    Andamaru sadar akan perannya dalam menyelamatkan lingkungan di sekitarnya.Pak
+    Jaya yang merupakan seorang petinggi kampus memberinya sebauh tugas mulia untuk
+    menjaga ekosistem di sekitarnya. \nDalam game ini, pemain akan diminta untuk
+    merawat lahan dengan cara memotong rumput liar, memungut sampah yang berserakan,
+    dan menanami serta menyiram tanaman.\n\nMuhammad Ezra Fathurrahman - Game Artist\nAkaasyah
+    Nurfath - Game programmer\nAlfariz Gilang Septian - Game Designer"
 --- !u!222 &800403323
 CanvasRenderer:
   m_ObjectHideFlags: 0
