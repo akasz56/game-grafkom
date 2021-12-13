@@ -19,16 +19,16 @@ Dalam game ini, pemain akan diminta untuk merawat lahan dengan cara memotong rum
 
 <h2>Rules</h2>
 
-1. Pemain harus memotong semua rumput liar
-2. Pemain harus mengambil semua sampah
-3. Pemain harus menyiram semua tanaman
-4. Pemain harus menggali semua tanah yg bisa digali
-5. Pemain harus menanami semua tanah yg sudah digali
-6. Pemain harus melakukan itu semua sebelum timer selesai
+1. Menggali dan menanam tanaman di petak lahan yang disediakan.
+2. Siram pohon hingga tumbuh.
+3. Membersihkan sampah dan semak-semak di sekitar lahan.
+4. Ketika misi-misi selesai pemain akan menang.
+5. Jika waktu habis dan pemain belum menyelesaikan misi, maka pemain akan kalah.
 
 <h2>Goals</h2>
 
 Merawat lahan dengan cara memotong rumput liar, memungut sampah yang berserakan, dan menanami serta menyiram tanaman.
 
 <h2>Dokumentasi</h2>
-Soon...
+https://ipb.link/dokumentasi-proyekgrafkom-ecoprotector
+
