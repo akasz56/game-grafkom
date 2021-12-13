@@ -14,7 +14,7 @@
 SDGs 15 ditambah dengan unsur IPB
 
 <h2>Story</h2>
-Budi adalah seorang mahasiswa tingkat akhir IPB yang sebentar lagi akan lulus. Menjelang kelulusannya, Budi masih bingung harus mencari pekerjaan kemana. Salah satu dosen ketika ia kuliah yaitu Pak Budiman ingin membantu Budi mencari lapangan pekerjaan. Namun ada syaratnya, Budi harus mau ditugaskan sekali lagi oleh Pak Budiman. Pak Budiman meminta Budi untuk merawat salah satu sepetak lahan di Kampus IPB yang sudah tidak terawat. Budi hanya diminta untuk merawat dan menanami lahan tersebut untuk beberapa hari, lalu setelahnya Pak Budiman akan memberikan lapangan pekerjaan untuk Budi.
+Andamaru adalah seorang mahasiswa pecinta lingkungan yang cerdas dan aktif di IPB yang sebentar lagi akan lulus. Andamaru sering melakukan aksi lingkungan dan menyuarakan pendapatnya ke publik, oleh karena itu ia dikenal oleh banyak orang di lingkungan kampus dan sekitarnya. Hingga suatu ketika beredar kabar bahwa ada lahan hijau yang kurang terawat dan ingin dijadikan bangunan oleh sebuah perusahaan, namun lahan tersebut seharusnya menjadi habitat bagi hewan dan tanaman-tanaman. Andamaru sadar akan perannya dalam menyelamatkan lingkungan di sekitarnya, Pak Jaya yang merupakan seorang petinggi kampus memberinya sebauh tugas mulia untuk menjaga ekosistem di sekitarnya.
 Dalam game ini, pemain akan diminta untuk merawat lahan dengan cara memotong rumput liar, memungut sampah yang berserakan, dan menanami serta menyiram tanaman. 
 
 <h2>Rules</h2>
